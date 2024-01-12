@@ -1,0 +1,2 @@
+# fairweather
+Hobby programming
